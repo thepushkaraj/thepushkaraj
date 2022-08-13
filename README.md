@@ -22,6 +22,9 @@
     <td>
        <img src="https://github-readme-stats.vercel.app/api?username=pushkaraj2007&theme=highcontrast&show_icons=true&count_private=true" alt="Pushkaraj Stats" />
     </td>
+    <td>
+       <img src="http://github-readme-streak-stats.herokuapp.com/?user=pushkaraj2007&theme=dark" alt="Pushkaraj Stats" />
+    </td>
   </tr>
 </table>
 
