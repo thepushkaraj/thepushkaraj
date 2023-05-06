@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, ExpressJS**
+- 💬 Ask me about **HTML, CSS, JavaScript, NetxtJS, NodeJS, ExpressJS, MongoDB**
 
 - 📫 How to reach me **[@pushkaraj2007](https://twitter.com/pushkaraj2007)**
 
