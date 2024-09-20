@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, NetxtJS, NodeJS, ExpressJS, MongoDB**
 
-- 📫 How to reach me **[contactpushkaraj@gmail.com](mailto:contactpushkaraj@gmail.com)** or **[@ThePushkaraj](https://twitter.com/thepushkaraj)**
+- 📫 How to reach me **[contactpushkaraj@gmail.com](mailto:contactpushkaraj@gmail.com)** or **[@ThePushkaraj](https://x.com/thepushkaraj)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
