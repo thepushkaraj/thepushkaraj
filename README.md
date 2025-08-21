@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ThePushkaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ThePushkaraj" height="30" width="40" /></a> <a href="https://pushkarajblog.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" alt="pushkaraj2007" height="30" width="40" /></a>
+<a href="https://twitter.com/ThePushkaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ThePushkaraj" height="30" width="40" /></a> <a href="https://pushkarajblog.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" alt="thepushkaraj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,17 +17,17 @@
 
 ## My hacktoberfest badges:
 
-[![@pushkaraj2007's Holopin board](https://holopin.io/api/user/board?user=pushkaraj2007)](https://holopin.io/@pushkaraj2007)
+[![@thepushkaraj's Holopin board](https://holopin.io/api/user/board?user=pushkaraj2007)](https://holopin.io/@pushkaraj2007)
 
 ## My GitHub stats:
 
 <table>
   <tr>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=pushkaraj2007&theme=highcontrast&show_icons=true&count_private=true" alt="Pushkaraj Stats" />
+       <img src="https://github-readme-stats.vercel.app/api?username=thepushkaraj&theme=highcontrast&show_icons=true&count_private=true" alt="Pushkaraj Stats" />
     </td>
     <td>
-       <img src="http://github-readme-streak-stats.herokuapp.com/?user=pushkaraj2007&theme=dark" alt="Pushkaraj Stats" />
+       <img src="http://github-readme-streak-stats.herokuapp.com/?user=thepushkaraj&theme=dark" alt="Pushkaraj Stats" />
     </td>
   </tr>
 </table>
@@ -37,12 +37,12 @@
 <table>
   <tr>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkaraj2007&layout=compact" alt="Most used programming languages by Pushkaraj" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepushkaraj&layout=compact" alt="Most used programming languages by Pushkaraj" />
     </td>
   </tr>
 </table>
 
 ## Contribution Graph:
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pushkaraj2007&theme=github&bg_color=0F182A)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thepushkaraj&theme=github&bg_color=0F182A)
 
